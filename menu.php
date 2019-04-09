@@ -26,6 +26,10 @@
 				</nav>
 			";
 
+	
+		include "lista.php";
+	
+
 		?>
 
     <!-- Optional JavaScript -->
